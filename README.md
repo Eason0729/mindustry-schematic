@@ -10,7 +10,7 @@ Personal collection of Mindustry schematics organized by category for syncing di
 
 All `.msch` files include embedded **names**, **descriptions**, and **tags/labels** so you can search and filter them directly inside the Schematic Browser.
 
-## Schematics (48 total)
+## Schematics (49 total)
 
 ### Silicon (`silicon/`)
 
@@ -75,6 +75,7 @@ All `.msch` files include embedded **names**, **descriptions**, and **tags/label
 | Name | Size | Tags | Description | File |
 | :--- | :--- | :--- | :--- | :--- |
 | **16x Phase Weaver Plant** | 18x18 | `Phase Fabric`, `Production` | 18x18 large phase fabric complex with 16 phase weavers, 8 blast drills, 8 water extractors, 8 unloaders, Overdrive Projector, and 2 mass drivers (place on sand). | [`16x-phase-weaver-plant.msch`](phase-fabric/16x-phase-weaver-plant.msch) |
+| **8x Phase Weaver Compact** | 5x11 | `Phase Fabric`, `Production` | 5x11 compact belt-fed phase fabric factory with 8 phase weavers, 4 unloaders, 5 batteries, and a central bridge output. Supply 40 sand/s and 16 thorium/s via opposite plastanium belts (either side works) plus 2,400 power/s for 4 phase fabric/s. By Drock. | [`8x-phase-weaver-compact.msch`](phase-fabric/8x-phase-weaver-compact.msch) |
 
 ### Power (`power/`)
 

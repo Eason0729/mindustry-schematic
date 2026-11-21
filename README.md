@@ -10,7 +10,7 @@ Personal collection of Mindustry schematics organized by category for syncing di
 
 All `.msch` files include embedded **names**, **descriptions**, and **tags/labels** so you can search and filter them directly inside the Schematic Browser.
 
-## Schematics (47 total)
+## Schematics (48 total)
 
 ### Silicon (`silicon/`)
 
@@ -65,6 +65,7 @@ All `.msch` files include embedded **names**, **descriptions**, and **tags/label
 | **30x Spore Cultivator Strip** | 5x51 | `Spore Pod`, `Production` | 5x51 tileable spore pod strip with 30 cultivators, bridge/plastanium logistics, and a liquid tank. | [`30x-cultivator-strip.msch`](pyratite-blast/30x-cultivator-strip.msch) |
 | **4x Blast Mixer Compact** | 7x6 | `Blast Compound`, `Production` | 7x6 bridge-fed blast compound array with 4 blast mixers, overflow gates, and 5 batteries. | [`4x-blast-mixer-compact.msch`](pyratite-blast/4x-blast-mixer-compact.msch) |
 | **4x Pyratite Mixer Compact** | 6x7 | `Pyratite`, `Production` | 6x7 bridge-fed pyratite array with 4 pyratite mixers, overflow gates, and 3 batteries. | [`4x-pyratite-mixer-compact.msch`](pyratite-blast/4x-pyratite-mixer-compact.msch) |
+| **6x Pyratite Mixer (Sand Stackable)** | 14x13 | `Pyratite`, `Production` | 14x13 stackable self-contained pyratite plant with 6 pyratite mixers, 4 laser drills, 8 water extractors, 2 oil extractors, and 2 coal centrifuges. Place on sand and supply power plus lead via the center plastanium belt (~4.5 pyratite/s; feeds 12 Differential Generators or 6 Impact Reactors per stack). | [`6x-pyratite-mixer-sand-stackable.msch`](pyratite-blast/6x-pyratite-mixer-sand-stackable.msch) |
 | **6x Pyratite Mixer (Vault)** | 9x6 | `Pyratite`, `Production` | 9x6 pyratite factory with 6 pyratite mixers fed via a vault, 2 containers, and 3 unloaders. | [`6x-pyratite-mixer-vault.msch`](pyratite-blast/6x-pyratite-mixer-vault.msch) |
 | **8x Pyratite Mixer** | 11x5 | `Pyratite`, `Production` | 11x5 pyratite production strip with 8 pyratite mixers, 16 unloaders, bridge logistics, and 2 menders. | [`8x-pyratite-mixer.msch`](pyratite-blast/8x-pyratite-mixer.msch) |
 | **Self-Contained Blast Compound** | 27x15 | `Blast Compound`, `Production` | 27x15 integrated blast compound plant with 10 cultivators, 6 rotary pumps, 3 pyratite mixers, 6 blast mixers, vault/container buffering, and solar/battery backup. | [`self-contained-blast-compound.msch`](pyratite-blast/self-contained-blast-compound.msch) |
